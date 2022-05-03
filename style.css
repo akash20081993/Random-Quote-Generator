@@ -1,0 +1,29 @@
+body{
+  background-color: #dda0dd;
+}
+h2{
+  display: inline-block;
+  position: relative;
+  margin-left: 2%;
+}
+h3{
+  text-align: right;
+}
+.quote-box{
+  width:50%;
+  margin:5% 25% 5%;
+  padding:5%;
+  background-color:#d3d3d3;
+}
+.btn-color:hover{
+  background-color:grey;
+  color:black;
+}
+.btn-color{
+  margin-bottom:8%;
+}
+
+.comma-size{
+  font-size: 5rem;
+  color:grey;
+}
